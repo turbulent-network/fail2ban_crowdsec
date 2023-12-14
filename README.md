@@ -2,6 +2,8 @@
 
 This basically consists of creating the `crowdsec.conf` file in `/etc/fail2ban/action.d` dir, then editing the files in `/etc/fail2ban/jail.d` to use the new action...
 
+Idea comes from [https://discourse.crowdsec.net/t/fail2ban-as-agent-for-crowdsec/910/3](https://discourse.crowdsec.net/t/fail2ban-as-agent-for-crowdsec/910/3).
+
 
 ## Install
 
